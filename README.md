@@ -10,7 +10,7 @@ The dataset is available on Zenodo: https://zenodo.org/records/13868828.
 ```
 "Non-Commercial Research Community license (NC-RCL)
 
-Limited Redistribution: You are permitted to copy and utilize the provided audio material in any medium or format, as long as it is done only for non-commercial purposes within the research community, and the redistribution is conducted solely through the platform closermusic.com or other platforms explicitly authorized by the licensor. Redistribution outside the authorized platforms is not allowed without the licensor's written consent.
+Limited Redistribution: You are permitted to copy and utilize the provided audio material in any medium or format, as long as it is done only for non-commercial purposes within the research community, and the redistribution is conducted solely through the platform Closer Music or other platforms explicitly authorized by the licensor. Redistribution outside the authorized platforms is not allowed without the licensor's written consent.
 
 Attribution: You must give appropriate credit (including the artist's name and the song's title), and provide a link to this license or a notice indicating the terms of this license.
 
